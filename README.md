@@ -15,4 +15,4 @@ Each parameter will be separated by one space in the same row.
 - A menu should be displayed on the screen with a description of the functions. The program waits for users input of the character "0." When you enter this character, one line of the Instructions file is recorded, this line will be decoded and run the appropriate function (as mentioned - according to the first character in the line and the parameters that will appear after it). At the end of the function, the corresponding output will be displayed on the screen, and the main menu will appear again, until another "0" character is received, until the end of the lines in the Instructions file.<br />
 ![restaurant](img_01.jpg)
 <br />
-![restaurant](img_02.jpg)
+![Screenshot](img_02.jpg)
